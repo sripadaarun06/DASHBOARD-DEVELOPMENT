@@ -87,6 +87,6 @@ For privacy and size reasons, a sample of the dataset is provided (`data_sample.
 2. Open with Power BI Desktop
 3. Explore interactive filters, drilldowns, and summaries
 
-🔗 [Download Dashboard.pbix (Google Drive)]([https://drive.google.com/your-share-link](https://www.dropbox.com/scl/fi/8rvmyqaiw3zm5ejllv35b/Retailrocket.pbix?rlkey=8bqx7jav2ci7pepd1hzq9j4bh&st=cg97es8u&dl=0))
+🔗 [Download Dashboard.pbix (Dropbox)] (https://www.dropbox.com/scl/fi/8rvmyqaiw3zm5ejllv35b/Retailrocket.pbix?rlkey=8bqx7jav2ci7pepd1hzq9j4bh&st=cg97es8u&dl=0)
 
 ---
