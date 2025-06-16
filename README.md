@@ -23,10 +23,15 @@ MENTOR: NEELA SANTOSH
 ## Features
 
 **Date Filtering** – Dynamic filtering by event date
+
 **Unique Visitors** – Count of unique users by session
+
 **Event Analysis** – Breakdown of events (View, Cart, Purchase)
+
 **Conversion Funnel** – Visual funnel tracking user progression
+
 **Top Products** – Most viewed and most purchased items
+
 **ETL** – Cleaned timestamp conversion and error handling in Power Query
 
 ---
