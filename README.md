@@ -50,7 +50,7 @@ MENTOR: NEELA SANTOSH
 ##  Screenshots
 
 ### Event Summary View
-![Event Summary](![Image](https://github.com/user-attachments/assets/fa4daa7d-a4a3-46fd-8f07-49beacacf7a5))
+![Event Summary] ![Image](https://github.com/user-attachments/assets/fa4daa7d-a4a3-46fd-8f07-49beacacf7a5)
 
 ---
 
