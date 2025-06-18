@@ -12,7 +12,7 @@ DOMAIN: Data Analytics
 
 MENTOR: NEELA SANTOSH
 
-## 🔍 Project Overview
+## Project Overview
 
 - **Objective**: Visualize and analyze user activity across key touchpoints in an e-commerce platform.
 - **Dataset**: ~2GB+ raw data of e-commerce events such as views, cart additions, and purchases.
